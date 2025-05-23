@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Application_Status,Proposed_Exposure
+CUST-1000,Brent Hoffman,Rejected,11.7 Lakh
+CUST-1001,Christina Boone,Rejected,57.41 Lakh
+CUST-1002,Matthew Morris,Rejected,72.59 Lakh
+CUST-1003,Joshua Chavez,Under Review,55.39 Lakh
+CUST-1004,Katie Valentine,Pending,99.39 Lakh
+CUST-1005,Scott Harris,Under Review,49.98 Lakh
+CUST-1006,Mr. Mark Leon,Rejected,7.9 Lakh
+CUST-1007,Brett Powell III,Approved,13.71 Lakh
+CUST-1008,Lisa Cervantes,Under Review,66.2 Lakh
+CUST-1009,Dwayne Fields,Under Review,57.45 Lakh
+CUST-1010,David Chung,Approved,68.54 Lakh
+CUST-1011,Jill James,Rejected,96.92 Lakh
+CUST-1012,David Lewis,Approved,68.83 Lakh
+CUST-1013,Sherry Green,Rejected,79.76 Lakh
+CUST-1014,Sandra Schmitt,Pending,87.88 Lakh
+CUST-1015,Amber Benitez,Rejected,23.05 Lakh
+CUST-1016,Daniel Perez,Approved,29.31 Lakh
+CUST-1017,David Heath,Pending,39.93 Lakh
+CUST-1018,Meghan Brown,Under Review,92.83 Lakh
+CUST-1019,Stanley Rivas,Pending,56.02 Lakh
+CUST-1020,Charles Herrera,Rejected,26.24 Lakh
+CUST-1021,Laura Clayton,Approved,41.87 Lakh
+CUST-1022,Angela Thompson,Approved,19.22 Lakh
+CUST-1023,Loretta Mitchell,Under Review,15.5 Lakh
+CUST-1024,Dr. Timothy Miller III,Under Review,18.72 Lakh
+CUST-1025,Lindsey Dickerson,Under Review,13.98 Lakh
+CUST-1026,Janet Coffey,Pending,28.53 Lakh
+CUST-1027,Michael Bass,Pending,26.0 Lakh
+CUST-1028,Danielle Price,Rejected,56.08 Lakh
+CUST-1029,Kaitlyn George,Approved,40.15 Lakh
+CUST-1030,Victor Lopez,Under Review,24.37 Lakh
+CUST-1031,Adam Duarte,Rejected,27.65 Lakh
+CUST-1032,Anna Davis,Under Review,57.95 Lakh
+CUST-1033,Antonio Fowler,Pending,99.1 Lakh
+CUST-1034,Thomas Rojas,Approved,11.58 Lakh
+CUST-1035,Denise Brown,Approved,80.22 Lakh
+CUST-1036,Todd Clark,Rejected,64.92 Lakh
+CUST-1037,Sandra Odonnell,Approved,6.37 Lakh
+CUST-1038,Alex Simon,Under Review,75.05 Lakh
+CUST-1039,Jason Palmer DDS,Rejected,6.16 Lakh
+CUST-1040,Frank Lucas,Rejected,6.5 Lakh
+CUST-1041,Mrs. Victoria Wilkinson,Rejected,63.92 Lakh
+CUST-1042,Lori Terry PhD,Approved,94.29 Lakh
+CUST-1043,Brian Mendoza,Approved,19.23 Lakh
+CUST-1044,Justin Brown,Rejected,60.68 Lakh
+CUST-1045,Justin Morgan,Approved,70.47 Lakh
+CUST-1046,Evan Wilson,Under Review,70.89 Lakh
+CUST-1047,Casey Davis,Pending,76.99 Lakh
+CUST-1048,Carol Higgins,Pending,56.5 Lakh
+CUST-1049,Christopher Lambert,Rejected,98.53 Lakh
+CUST-1050,Tony Haynes,Pending,7.61 Lakh
+CUST-1051,Curtis Williams,Pending,8.48 Lakh
+CUST-1052,Katherine Davila,Pending,22.67 Lakh
+CUST-1053,Nancy Vargas,Pending,34.36 Lakh
+CUST-1054,Nichole Garcia,Approved,96.47 Lakh
+CUST-1055,Elizabeth Hampton,Pending,42.99 Lakh
+CUST-1056,Lindsey Dillon,Under Review,15.35 Lakh
+CUST-1057,James Grant,Under Review,24.54 Lakh
+CUST-1058,David Gordon,Under Review,20.46 Lakh
+CUST-1059,Amy Roman,Under Review,89.96 Lakh
+CUST-1060,Theodore Mitchell,Approved,18.88 Lakh
+CUST-1061,Christopher Good,Rejected,19.92 Lakh
+CUST-1062,Barry Thompson,Pending,68.73 Lakh
+CUST-1063,Richard Burke,Under Review,89.28 Lakh
+CUST-1064,Virginia Maddox,Rejected,52.79 Lakh
+CUST-1065,Katherine Morrison,Under Review,78.84 Lakh
+CUST-1066,Natasha Klein,Under Review,31.85 Lakh
+CUST-1067,Nicole Santana,Rejected,83.38 Lakh
+CUST-1068,Crystal Jones,Approved,67.14 Lakh
+CUST-1069,Kevin Wilson,Rejected,97.68 Lakh
+CUST-1070,Linda Cain,Pending,70.58 Lakh
+CUST-1071,Melissa Hardy,Pending,68.53 Lakh
+CUST-1072,Eric King,Pending,62.79 Lakh
+CUST-1073,Kelly Griffin,Pending,49.53 Lakh
+CUST-1074,Cole Huerta,Approved,67.95 Lakh
+CUST-1075,Stacy Sherman,Rejected,36.65 Lakh
+CUST-1076,Roy Freeman,Under Review,91.64 Lakh
+CUST-1077,Shawn Payne,Rejected,34.76 Lakh
+CUST-1078,Eric Kim,Under Review,11.59 Lakh
+CUST-1079,Justin Jones,Pending,5.15 Lakh
+CUST-1080,Amber Wright,Pending,53.55 Lakh
+CUST-1081,Dr. Theodore Porter PhD,Rejected,29.24 Lakh
+CUST-1082,Theresa Moore,Rejected,91.52 Lakh
+CUST-1083,Michael Mitchell,Pending,14.49 Lakh
+CUST-1084,Jasmine Lopez,Pending,58.02 Lakh
+CUST-1085,Angela Huff,Rejected,31.17 Lakh
+CUST-1086,Eric Anderson,Pending,72.89 Lakh
+CUST-1087,Rhonda Hurst,Pending,43.56 Lakh
+CUST-1088,Benjamin Hawkins,Approved,27.17 Lakh
+CUST-1089,Jeremy Johnson,Approved,38.73 Lakh
+CUST-1090,Randy Smith,Pending,13.37 Lakh
+CUST-1091,Ryan Ruiz,Rejected,76.29 Lakh
+CUST-1092,Ruben Andrews,Pending,59.11 Lakh
+CUST-1093,Melvin Rhodes,Approved,43.62 Lakh
+CUST-1094,William Solis,Approved,31.95 Lakh
+CUST-1095,Richard Solomon,Under Review,52.37 Lakh
+CUST-1096,Todd Powell,Under Review,12.01 Lakh
+CUST-1097,Jonathan Myers,Approved,77.6 Lakh
+CUST-1098,Erik Williams,Under Review,79.21 Lakh
+CUST-1099,Adrian Padilla,Rejected,30.63 Lakh
